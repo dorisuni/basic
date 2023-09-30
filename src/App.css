@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: violet;
+}
+
+.home {
+    background-color: blue;
+}
+
+.footer {
+    background-color: blueviolet;
+}
